@@ -9,10 +9,6 @@ public class Freela {
     private Double notaAvaliacao;
     private LocalDateTime dataCadastro;
 
-    // Construtor vazio
-    public Freela() {
-        this.dataCadastro = LocalDateTime.now();
-    }
 
     // Construtor com parâmetros
     public Freela(String nome, String email, String telefone, String especialidade, Double notaAvaliacao) {
