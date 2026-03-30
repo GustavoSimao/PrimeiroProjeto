@@ -6,3 +6,4 @@ Gerenciamento de Freelancers e Clientes com todas as operações (Create, Read, 
 
 Desenvolvido com Scanner, ArrayList e um pouco de Repository.
 
+Projeto realizado somente para aprender conceitos, tem muito bug.
